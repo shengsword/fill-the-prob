@@ -1,4 +1,4 @@
-# Fill-The-Probability
+# FillTheProbability
 
 https://shengsword.svbtle.com/fill-the-probability
 
