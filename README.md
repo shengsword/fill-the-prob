@@ -1,6 +1,6 @@
 # fill-prob
 
-A Quil sketch designed to ... well, that part is up to you.
+https://shengsword.svbtle.com/fill-the-probability
 
 ## Usage
 
@@ -12,7 +12,6 @@ REPL - run `(require 'fill-prob.core)`.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2019 FIXME
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+MIT
